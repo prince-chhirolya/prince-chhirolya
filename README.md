@@ -1,4 +1,4 @@
-[![MasterHead](https://drive.google.com/file/d/1LE3FXhE8VcY13ouiORZBOB_6uMot-gqL/view?usp=sharing)] 
+[![MasterHead](https://github.com/prince-chhirolya/prince-chhirolya/blob/main/Prince%20Chhirolya.png)] 
 
 <h1 align="center">Hi 👋, I'm Prince Chhirolya</h1>
 <h3 align="center">A passionate AI/ML</h3>
