@@ -130,5 +130,5 @@
 <a href="https://www.leetcode.com/chhirolyaprince" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="chhirolyaprince" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/prince_chhiroly" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="prince_chhiroly" height="30" width="40" /></a>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prince-chhirolya&show_icons=true&locale=en&layout=compact" alt="prince-chhirolya" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prince-chhirolya&show_icons=true&locale=en&layout=compact" alt="prince-chhirolya" ></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prince-chhirolya&show_icons=true&locale=en" alt="prince-chhirolya" /></p>
