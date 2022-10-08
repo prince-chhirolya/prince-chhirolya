@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Prince Chhirolya</h1>
 <h3 align="center">A passionate AI/ML</h3>
 
-<img align="right" alt="coding" width="300" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76113de13e1cc0d6ddc9325ec135085f932d4006fa1c&rid=giphy.gif&ct=g">
+<img align="right" alt="coding" width="350" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76113de13e1cc0d6ddc9325ec135085f932d4006fa1c&rid=giphy.gif&ct=g">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prince-chhirolya" alt="prince-chhirolya" /></a> </p>
 
