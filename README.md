@@ -25,11 +25,7 @@ _Hi! 👋, My name is **Prince Chhirolya** and I'm currently working remotely as
 
 <h3 align="left">Skills: <img width="30" height="25" src="https://img.icons8.com/arcade/64/source-code.png" alt="source-code"/></h3>
 <p align="left">
-  <img width="60" height="60" src="https://img.icons8.com/3d-fluency/94/python.png" alt="python"/>
-  <img width="60" height="60" src="https://img.icons8.com/3d-fluency/188/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/>
-  <img width="60" height="60" src="https://img.icons8.com/arcade/64/html-5.png" alt="html-5"/>
-  <img width="60" height="60" src="https://img.icons8.com/fluency/48/css3.png" alt="html-5"/>
-  <img width="60" height="60" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
+
   
 
 
