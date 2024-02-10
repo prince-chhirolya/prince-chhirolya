@@ -1,7 +1,10 @@
-![MasterHead](https://github.com/prince-chhirolya/prince-chhirolya/blob/main/Prince%20Chhirolya.png)
+![MasterHead](./prince-chhirolya-github-banner.png)
 
-<h1 align="center">Hi 👋, I'm Prince Chhirolya</h1>
-<h3 align="center">A passionate AI/ML</h3>
+<h1 align="center"><i>Hello! 👋, Programmers...</i></h1>
+
+> Hi! 👋, My name is "Prince Chhirolya" and I'm currently working remotely as a Software Engineer from India 👨‍💻.
+>
+>> I also work on my side project, "Chirolya Technologies  (AI Reasearch & Development)".
 
 
 - 🌱 I’m currently learning **AI/ML**
