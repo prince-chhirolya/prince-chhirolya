@@ -4,7 +4,8 @@
 
 _Hi! 👋, My name is **Prince Chhirolya** and I'm currently working remotely as a **Software Engineer** from India 👨‍💻. I also work on my side project, **Chirolya Technologies** (AI Research & Development) ...🚀._
 
-- How to reach me: <strong>prince.chhirolya04@gmail.com</strong>
+<p align="center"><img src="./img/world-cloud.png" alt="prince"/> </p>
+
 
 <h3 align="left">Know more about me:</h3>
 <p align="left">
@@ -26,6 +27,6 @@ _Hi! 👋, My name is **Prince Chhirolya** and I'm currently working remotely as
 <h3 align="left">Skills: <img width="30" height="25" src="https://img.icons8.com/arcade/64/source-code.png" alt="source-code"/></h3>
 <p align="left">
 
-  
+</p>
 
 
