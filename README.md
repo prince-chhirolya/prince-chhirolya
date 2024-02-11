@@ -24,9 +24,9 @@ _Hi! 👋, My name is **Prince Chhirolya** and I'm currently working remotely as
 
 [---]()
 
-<h3 align="left">Skills: <img width="30" height="25" src="https://img.icons8.com/arcade/64/source-code.png" alt="source-code"/></h3>
+<h3 align="left">Skills & Tools: <img width="30" height="25" src="https://img.icons8.com/arcade/64/source-code.png" alt="source-code"/></h3>
 <p align="left">
-
+    
 </p>
 
 
