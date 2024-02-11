@@ -7,7 +7,7 @@ _Hi! 👋, My name is **Prince Chhirolya** and I'm currently working remotely as
 <p align="center"><img src="./img/world-cloud.png" alt="prince"/> </p>
 
 
-<h3 align="left">Know more about me:</h3>
+<h3 align="left">Know more about me:)</h3>
 <p align="left">
   <a href="mailto:prince.chhirolya04@gmail.com" target="blank"><img width="50" height="50" src="https://img.icons8.com/3d-fluency/94/filled-message.png" alt="filled-message"/>
   <a href="https://linkedin.com/in/princechhirolya" target="blank"><img width="50" height="50" src="https://img.icons8.com/3d-fluency/188/linkedin.png" alt="Prince Chhirolya 🚀"/>
