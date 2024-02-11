@@ -1,4 +1,4 @@
-![MasterHead](./img/prince-chhirolya-github-banner.png)
+[![MasterHead](./img/prince-chhirolya-github-banner.png)](https://www.linkedin.com/in/princechhirolya/)
 
 <h1 align="center"><i> Hello!, fellow < Programmers/ >...👋 </i></h1>
 
