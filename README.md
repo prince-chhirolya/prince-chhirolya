@@ -9,20 +9,63 @@ _Hi! 👋, My name is **Prince Chhirolya** and I'm currently working remotely as
 
 <p>I am deeply passionate about leveraging technology to solve complex problems and drive innovation in the rapidly evolving landscape of software engineering. With a relentless drive for learning and growth, I continually expand my knowledge and hone my skills to stay at the forefront of technological advancements.</p>
 
-<h3 align="left">Skills & Tools: <img width="30" height="25" src="https://img.icons8.com/arcade/64/source-code.png" alt="source-code"/></h3>
-<p align="left">
+<h1 align="left">Skills & Tools: <img width="30" height="25" src="https://img.icons8.com/arcade/64/source-code.png" alt="source-code"/></h1>
 
 
 
+<!-- Programming Languages -->
 
+**Programming Languages:**
+<div style="display: flex; align-items: flex-start; align: center">
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
+      <br>Java
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
+      <br>AWS
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
+      <br>C#
+    </td>
+  </tr>
   
-</p>
+</table>
+
+</div>
 
 
 
 <h3 align="left">You can connect with me on:)</h3>
 <p align="left">
-  <a href="mailto:prince.chhirolya04@gmail.com" target="blank"><img width="50" height="50" src="https://img.icons8.com/3d-fluency/94/filled-message.png" alt="filled-message"/>
+  <a href="mailto:prince.chhirolya04@gmail.com" target="blank"><img width="50" height="50" src="https://github.com/prince-chhirolya/prince-chhirolya/assets/94574414/df14c3db-3ad8-4e21-ac50-713ab2b0a5bb" alt="prince.chhirolya"/>
   <a href="https://linkedin.com/in/princechhirolya" target="blank"><img width="50" height="50" src="https://img.icons8.com/3d-fluency/188/linkedin.png" alt="Prince Chhirolya 🚀"/>
   <a href="https://github.com/prince-chhirolya" target="blank"><img width="50" height="50" src="https://img.icons8.com/3d-fluency/94/github.png" alt="prince-chhirolya"/>
   <a href="https://www.credly.com/users/prince-chhirolya/badges" target="blank"><img width="50" height="50" src="https://img.icons8.com/color/48/credly.png" alt="credly"/>
