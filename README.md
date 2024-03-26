@@ -37,8 +37,6 @@ _Hi! 👋, My name is **Prince Chhirolya** and I'm currently working remotely as
 
 ----
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prince-chhirolya&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prince-chhirolya&layout=compact&)
 
-[![Prince's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=prince-chhirolya&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/prince-chhirolya/github-readme-stats#gh-dark-mode-only) [![Prince's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=prince-chhirolya&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/prince-chhirolya/github-readme-stats#gh-light-mode-only)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=prince-chhirolya&theme=dark&mode=weekly)](https://git.io/streak-stats)
+[![Prince's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=prince-chhirolya&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/prince-chhirolya/github-readme-stats#gh-dark-mode-only) [![Prince's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=prince-chhirolya&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/prince-chhirolya/github-readme-stats#gh-light-mode-only) [![GitHub Streak](https://streak-stats.demolab.com?user=prince-chhirolya&theme=dark&mode=weekly)](https://git.io/streak-stats)
