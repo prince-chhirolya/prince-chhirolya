@@ -29,7 +29,6 @@ _Hi! 👋, My name is **Prince Chhirolya** and I'm currently working remotely as
 </p>
 <!-- activity graph heroku-app end -->
 
-<br/>
 
 <!-- Skills & Tools -->
 
@@ -40,89 +39,216 @@ _Hi! 👋, My name is **Prince Chhirolya** and I'm currently working remotely as
 <table align="center">
   <tr>
     <td align="center" width="96">
-        <img src="https://github.com/prince-chhirolya/prince-chhirolya/assets/94574414/cbc34382-c29c-4c72-a811-285fe779cbbc" alt="icon" width="65" height="65" />
+        <img src="https://img.icons8.com/color/65/python--v1.png" alt="icon" width="65" height="65" />
       <br>Python
     </td>
     <td align="center" width="96">
-        <img src="https://github.com/prince-chhirolya/prince-chhirolya/assets/94574414/bdd9d9cb-b9b1-4a33-ade8-0d0f81006a9c" alt="icon" width="65" height="65" />
+        <img src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="icon" width="65" height="65" />
       <br>Java
     </td>
     <td align="center" width="96">
-        <img src="https://github.com/prince-chhirolya/prince-chhirolya/assets/94574414/0e06354f-ce5c-4d91-88a9-d9ab514874ce" width="65" height="65" />
+        <img src="https://img.icons8.com/fluency/65/javascript.png" width="65" height="65" />
       <br>JavaScript
     </td>
     <td align="center" width="96">
-        <img src="https://github.com/prince-chhirolya/prince-chhirolya/assets/94574414/dde56d6b-fd82-43c6-b1ac-cc88a64ee376" alt="icon" width="65" height="65" />
+        <img src="https://img.icons8.com/officel/65/react.png" alt="icon" width="65" height="65" />
       <br>React
     </td>
     <td align="center" width="96">
-        <img src="https://github.com/prince-chhirolya/prince-chhirolya/assets/94574414/146f83ee-40ba-4dea-bb14-abaa4beec93a" alt="icon" width="65" height="65" />
+        <img src="https://img.icons8.com/color/65/html-5--v2.png" alt="icon" width="65" height="65" />
       <br>HTML5
     </td>
     <td align="center" width="96">
-        <img src="https://github.com/prince-chhirolya/prince-chhirolya/assets/94574414/133bf905-2663-4dd5-9b9b-d6316ca64df1" alt="icon" width="65" height="65" />
-      <br>CSS
+        <img src="https://img.icons8.com/color/65/css3.png" alt="icon" width="65" height="65" />
+      <br>CSS3
     </td>
     <td align="center" width="96">
-        <img src="https://github.com/prince-chhirolya/prince-chhirolya/assets/94574414/5d79981c-d46f-417e-b4b9-c9e139fce314" alt="icon" width="65" height="65" />
+        <img src="https://img.icons8.com/color/65/typescript.png" alt="icon" width="65" height="65" />
       <br>TypeScript
     </td>
     <td align="center" width="96">
-        <img src="https://github.com/prince-chhirolya/prince-chhirolya/assets/94574414/f79a415b-9150-4e7d-8d5a-ee4f922815ef" alt="icon" width="65" height="65" />
+        <img src="https://nodejs.org/static/logos/nodejsStackedLight.svg" alt="icon" width="65" height="65" />
       <br>Node.js
     </td>
     </td>
     <td align="center" width="96">
-        <img src="https://github.com/prince-chhirolya/prince-chhirolya/assets/94574414/157f078c-b761-4117-8b6e-31117dad180a" alt="icon" width="65" height="65" />
+        <img src="https://img.icons8.com/fluency/65/nextjs.png" alt="icon" width="65" height="65" />
+      <br>Next.js
+    </td>
+    <td align="center" width="96">
+        <img src="https://img.icons8.com/color/65/express-js.png" alt="icon" width="65" height="65" />
+      <br>Express js
+  </tr>
+
+  <tr>
+    <td align="center" width="96">
+        <img src="https://img.icons8.com/arcade/65/sql.png" alt="icon" width="65" height="65" />
       <br>SQL
     </td>
     <td align="center" width="96">
-        <img src="https://github.com/prince-chhirolya/prince-chhirolya/assets/94574414/72d7c127-0a43-46d8-bf95-de9d31936078" alt="icon" width="65" height="65" />
-      <br>Sass
-  </tr>
-  <!-- 2nd -->
-  <tr>
-    <td align="center" width="96">
-        <img src=https://github.com/prince-chhirolya/prince-chhirolya/assets/94574414/4a08c2b7-c4d7-4d50-9d7d-2b448361e3a3" alt="icon" width="65" height="65" />
-      <br>MySQL
+        <img src="https://img.icons8.com/fluency/65/tailwind_css.png" alt="icon" width="65" height="65" />
+      <br>Tailwind CSS
     </td>
     <td align="center" width="96">
-        <img src="https://github.com/prince-chhirolya/prince-chhirolya/assets/94574414/0277b176-082e-4dbb-b08d-85952920ad22" alt="icon" width="65" height="65" />
-      <br>MongoDB
+        <img src="https://img.icons8.com/color/65/material-ui.png" width="65" height="65" />
+      <br>Material UI
     </td>
     <td align="center" width="96">
-        <img src="https://github.com/prince-chhirolya/prince-chhirolya/assets/94574414/2e6bdc17-b696-4934-8835-9573112214c7" width="65" height="65" />
-      <br>Git
+        <img src="https://img.icons8.com/color/65/redux.png" alt="icon" width="65" height="65" />
+      <br>Redux
     </td>
     <td align="center" width="96">
-        <img src="https://github.com/prince-chhirolya/prince-chhirolya/assets/94574414/98f510c7-7bd9-4fc8-ad02-72a7e1bced94" alt="icon" width="65" height="65" />
-      <br>VS Code
-    </td>
-    <td align="center" width="96">
-        <img src="https://github.com/prince-chhirolya/prince-chhirolya/assets/94574414/c43a07ba-8191-47dc-9505-04853f668ac8" alt="icon" width="65" height="65" />
+        <img src="https://img.icons8.com/color/65/npm.png" alt="icon" width="65" height="65" />
       <br>npm
     </td>
     <td align="center" width="96">
-        <img src="https://github.com/prince-chhirolya/prince-chhirolya/assets/94574414/e2c0f027-ca4b-466d-afa4-046aef864364" alt="icon" width="65" height="65" />
-      <br>AWS
+        <img src="https://img.icons8.com/fluency/65/my-sql.png" alt="icon" width="65" height="65" />
+      <br>MySQL
     </td>
     <td align="center" width="96">
-        <img src="https://github.com/prince-chhirolya/prince-chhirolya/assets/94574414/c4325bcd-5aa3-4f19-8d06-00d928237f0c" alt="icon" width="65" height="65" />
+        <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/65/external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo.png" width="65" height="65" />
+      <br>MongoDB
+    </td>
+    </td>
+    <td align="center" width="96">
+        <img src="https://img.icons8.com/color/65/redis--v2.png" alt="icon" width="65" height="65" />
+      <br>Redis
+    </td>
+    <td align="center" width="96">
+        <img src="https://img.icons8.com/color/65/postgreesql.png" alt="icon" width="65" height="65" />
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="96">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Cassandra_logo.svg" alt="icon" width="65" height="65" />
+      <br>Cassandra
+  </tr>
+    
+  <tr>
+    <td align="center" width="96">
+        <img src="https://img.icons8.com/fluency/65/visual-studio-code-2019.png" alt="icon" width="65" height="65" />
+      <br>VS Code
+    </td>
+    <td align="center" width="96">
+        <img src="https://img.icons8.com/color/65/git.png" alt="icon" width="65" height="65" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+        <img src="https://img.icons8.com/color/65/linux--v1.png" width="65" height="65" />
+      <br>Linux
+    </td>
+    <td align="center" width="96">
+        <img src="https://img.icons8.com/color/65/pycharm--v2.png" alt="icon" width="65" height="65" />
+      <br>Pycharm 
+    </td>
+    <td align="center" width="96">
+        <img src="https://img.icons8.com/color/65/webstorm.png" alt="icon" width="65" height="65" />
+      <br>Webstrom 
+    </td>
+    <td align="center" width="96">
+        <img src="https://img.icons8.com/color/65/intellij-idea.png" alt="icon" width="65" height="65" />
+      <br>Intellij
+    </td>
+    <td align="center" width="96">
+        <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/65/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" width="65" height="65" />
+      <br>Postman
+    </td>
+    </td>
+    <td align="center" width="96">
+        <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/65/external-firebase-a-googles-mobile-platform-that-helps-you-quickly-develop-high-quality-apps-logo-color-tal-revivo.png" alt="icon" width="65" height="65" />
+      <br>Firebase
+    </td>
+    <td align="center" width="96">
+        <img src="https://img.icons8.com/ios/65/chatgpt.png" alt="icon" width="65" height="65" />
+      <br>ChatGPT
+    </td>
+    <td align="center" width="96">
+        <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/65/external-graphql-an-open-source-data-query-and-manipulation-language-for-api-logo-color-tal-revivo.png" alt="icon" width="65" height="65" />
+      <br>GraphQL
+  </tr>
+    
+ 
+  <tr>
+    <td align="center" width="96">
+        <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/65/external-amazon-web-services-a-subsidiary-of-amazon-that-provides-on-demand-cloud-computing-logo-color-tal-revivo.png" alt="icon" width="65" height="65" />
+      <br>AWS Cloud
+    </td>
+    <td align="center" width="96">
+        <img src="https://img.icons8.com/office/65/ibm-watson.png" alt="icon" width="65" height="65" />
+      <br>IBM Watson
+    </td>
+    <td align="center" width="96">
+        <img src="https://img.icons8.com/fluency/65/azure-1.png" width="65" height="65" />
+      <br>Azure Cloud
+    </td>
+    <td align="center" width="96">
+        <img src="https://img.icons8.com/fluency/65/docker.png" alt="icon" width="65" height="65" />
       <br>Docker
     </td>
     <td align="center" width="96">
-        <img src="https://github.com/prince-chhirolya/prince-chhirolya/assets/94574414/f79a415b-9150-4e7d-8d5a-ee4f922815ef" alt="icon" width="65" height="65" />
-      <br>Node.js
+        <img src="https://img.icons8.com/color/65/kubernetes.png" alt="icon" width="65" height="65" />
+      <br>Kubernetes
+    </td>
+    <td align="center" width="96">
+        <img src="https://img.icons8.com/color/65/terraform.png" alt="icon" width="65" height="65" />
+      <br>Teraform
+    </td>
+    <td align="center" width="96">
+        <img src="https://img.icons8.com/color/65/jenkins.png" width="65" height="65" />
+      <br>Jenkins
     </td>
     </td>
     <td align="center" width="96">
-        <img src="https://github.com/prince-chhirolya/prince-chhirolya/assets/94574414/157f078c-b761-4117-8b6e-31117dad180a" alt="icon" width="65" height="65" />
-      <br>SQL
+        <img src="https://img.icons8.com/external-tanah-basah-glyph-tanah-basah/65/external-notion-social-media-tanah-basah-glyph-tanah-basah.png" alt="icon" width="65" height="65" />
+      <br>Notion
     </td>
     <td align="center" width="96">
-        <img src="https://github.com/prince-chhirolya/prince-chhirolya/assets/94574414/72d7c127-0a43-46d8-bf95-de9d31936078" alt="icon" width="65" height="65" />
-      <br>Sass
+        <img src="https://img.icons8.com/nolan/65/miro.png" alt="icon" width="65" height="65" />
+      <br>Miro
+    </td>
+    <td align="center" width="96">
+        <img src="https://img.icons8.com/ios-filled/65/api-settings.png" alt="icon" width="65" height="65" />
+      <br>Rest API
   </tr>
+
+    
+  <tr>
+    <td align="center" width="96">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/11/TensorFlowLogo.svg" alt="icon" width="65" height="65" />
+      <br>TensorFlow
+    </td>
+    <td align="center" width="96">
+        <img src="https://img.icons8.com/fluency/65/opencv.png" alt="icon" width="65" height="65" />
+      <br>OpenCV
+    </td>
+    <td align="center" width="96">
+        <img src="https://img.icons8.com/fluency/65/pytorch.png" width="65" height="65" />
+      <br>Pytorch
+    </td>
+    <td align="center" width="96">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="icon" width="65" height="65" />
+      <br>Keras
+    </td>
+    <td align="center" width="96">
+        <img src="https://img.icons8.com/fluency/65/hugging-face_app.png" alt="icon" width="65" height="65" />
+      <br>Hugging Face
+    </td>
+    <td align="center" width="96">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/LangChain_logo.svg" alt="icon" width="65" height="65" />
+      <br>LangChain
+    </td>
+    <td align="center" width="96">
+        <img src="https://img.icons8.com/color/65/jira.png" width="65" height="65" />
+      <br>Jira
+    </td>
+    <td align="center" width="96">
+    </td>
+    </td>
+    <td align="center" width="96">
+      Life is always...💖😊
+    <td align="center" width="450">
+      More Learning 👨‍💻 ==> More Earning 💰 ==> More Happiness 🤗
+</tr>
+    
 </table>
 
 </div>
