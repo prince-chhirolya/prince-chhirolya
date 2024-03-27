@@ -14,6 +14,7 @@ _Hi! 👋, My name is **Prince Chhirolya** and I'm currently working remotely as
 
 <hr/>
 
+
 <!-- Profile Visitor's Counter -->
 
 <p align="center">
@@ -29,6 +30,7 @@ _Hi! 👋, My name is **Prince Chhirolya** and I'm currently working remotely as
 </p>
 <!-- activity graph heroku-app end -->
 
+<p align="center"><b><i>Life is always...💖😊 More Learning 👨‍💻 ==> More Earning 💰 ==> More Happiness 🤗</i></b></p>
 
 <!-- Skills & Tools -->
 
@@ -244,18 +246,13 @@ _Hi! 👋, My name is **Prince Chhirolya** and I'm currently working remotely as
     </td>
     </td>
     <td align="center" width="96">
-      Life is always...💖😊
-    <td align="center" width="450">
-      More Learning 👨‍💻 ==> More Earning 💰 ==> More Happiness 🤗
+    <td align="center" width="96">
+      
 </tr>
-    
 </table>
-
 </div>
 
-
-
-<br/>
+</br>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
@@ -270,9 +267,8 @@ _Hi! 👋, My name is **Prince Chhirolya** and I'm currently working remotely as
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=prince-chhirolya)](https://github.com/ryo-ma/github-profile-trophy) 
 
-<br/>
 
-
+</br>
 
 <!-- Contact Us -->
 
@@ -291,8 +287,8 @@ _Hi! 👋, My name is **Prince Chhirolya** and I'm currently working remotely as
   <a href="https://medium.com/@chhirolyaprince" target="blank"><img width="50" height="50" src="https://img.icons8.com/glyph-neue/64/medium-monogram.png" alt="@chhirolyaprince"/> 
   <a href="https://developers.google.com/profile/u/princechhirolya" target="blank"><img width="50" height="50" src="https://img.icons8.com/papercut/60/google-logo.png" alt="princechhirolya"/>
 </p> 
-    
-<br/>
+
+</br>
 
 <h2 align="center">🐍 My Contributions 🐍</h2>
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
