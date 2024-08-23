@@ -4,7 +4,7 @@
 
 
 
-_Hi! 👋, My name is **Prince Chhirolya** and I'm currently working remotely as a **Remote Software Engineer** from India 👨‍💻. I also work on my side project, **Chirolya Technologies** (AI Research & Development) ...🚀.</p>_
+_Hi! 👋, My name is **Prince Chhirolya** and I'm currently working remotely as a **Remote Software Engineer** from India 👨‍💻. I also work on my dream project, **Chirolya Technologies** (AI Research & Development) ...🚀.</p>_
 
 <br/>
 
