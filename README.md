@@ -288,8 +288,5 @@ _Hi! 👋, My name is **Prince Chhirolya** and I'm currently working remotely as
   <a href="https://developers.google.com/profile/u/princechhirolya" target="blank"><img width="50" height="50" src="https://img.icons8.com/papercut/60/google-logo.png" alt="princechhirolya"/>
 </p> 
 
-</br>
-
-<h2 align="center">🐍 My Contributions 🐍</h2>
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
 
