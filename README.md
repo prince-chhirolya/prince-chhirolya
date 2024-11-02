@@ -285,7 +285,6 @@ _Hi! 👋, My name is **Prince Chhirolya** and I'm currently working remotely as
   <a href="https://www.hackerrank.com/profile/chhirolyaprince" target="blank"><img width="50" height="50" src="https://img.icons8.com/windows/32/3ea527/hackerrank.png" alt="chhirolyaprince"/>
   <a href="https://learn.microsoft.com/en-us/users/prince-chhirolya/" target="blank"><img width="50" height="50" src="https://img.icons8.com/color/48/microsoft.png" alt="prince-chhirolya"/>
   <a href="https://medium.com/@chhirolyaprince" target="blank"><img width="50" height="50" src="https://img.icons8.com/glyph-neue/64/medium-monogram.png" alt="@chhirolyaprince"/> 
-  <a href="https://developers.google.com/profile/u/princechhirolya" target="blank"><img width="50" height="50" src="https://img.icons8.com/papercut/60/google-logo.png" alt="princechhirolya"/>
 </p> 
 
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
