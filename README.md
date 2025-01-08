@@ -257,9 +257,6 @@ _Hi! 👋, My name is **Prince Chhirolya** and I'm currently working remotely as
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=430 src="https://streak-stats.demolab.com?user=prince-chhirolya&theme=dark&mode=weekly"/>
-  <img width=400 src="https://github-readme-stats.vercel.app/api?username=prince-chhirolya&show_icons=true&theme=dark#gh-dark-mode-only" alt="readme stats" />
-  <br/>
   <img width=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prince-chhirolya&layout=compact&" />
   
 <!-- Trophy -->
