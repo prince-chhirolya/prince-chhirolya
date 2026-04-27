@@ -1,274 +1,123 @@
 <!-- ╔══════════════════════════════════════════════════════════════════╗ -->
-<!-- ║   ⚡ PRINCE CHHIROLYA · GitHub Profile README ⚡ ║ -->
+<!-- ║         ⚡ PRINCE CHHIROLYA · GitHub Profile README ⚡          ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════════╝ -->
 
-[![MasterHead](./img/prince-chhirolya-github-banner.png)](https://www.linkedin.com/in/princechhirolya/)
+<h1 align="center"><i>Hello!, fellow &lt;Programmers/&gt; I'm Prince 👋</i></h1>
 
-<h1 align="center"><i> Hello!, fellow < Programmers/ > I'm Prince👋 </i></h1>
+<p>
+  <a href="https://www.linkedin.com/in/princechhirolya/">
+    <img src="https://img.shields.io/badge/-princechhirolya-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/prince-chhirolya">
+    <img src="https://img.shields.io/github/followers/prince-chhirolya?label=follow&style=social" alt="GitHub Followers" />
+  </a>
+</p>
 
-
-
-_Hi! 👋, My name is **Prince Chhirolya** and I'm currently working remotely as a **Remote Software Engineer** from India 👨‍💻. I also work on my dream project, **Chhirolya Technologies** (AI Research & Development) ...🚀.</p>_
+<p align="center">
+  Hi! 👋, My name is <b>Prince Chhirolya</b>.<br/>
+  I am currently focused on building my deep‑tech startup 
+  <a href="https://www.linkedin.com/company/chhirolya-tech/" target="_blank"><b>Chhirolya Technologies</b></a> 
+  (AI Research &amp; Development, specializing in defense and public sector).<br/>
+  I also run a non‑profit organization 
+  <a href="https://www.linkedin.com/company/maa-world/" target="_blank"><b>Maa World Foundation</b></a> 
+  (free education, women &amp; child safety, and tech for social good).
+</p>
 
 <br/>
 
-<p align="center"><img src="./img/world-cloud.png" alt="prince"/> </p>
-
-<p>I am deeply passionate about leveraging technology to solve complex problems and drive innovation in the rapidly evolving landscape of software engineering. With a relentless drive for learning and growth, I continually expand my knowledge and hone my skills to stay at the forefront of technological advancements.</p>
-
-<hr/>
-
-<!-- activity graph heroku-app start -->
 <p align="center">
-    <a href="https://wakatime.com/@Goblin8888">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=prince-chhirolya&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
-    </a>
+  <img src="./img/world-cloud.png" alt="prince" />
 </p>
-<!-- activity graph heroku-app end -->
 
-<p align="center"><b><i>Life is always...💖😊 More Learning 👨‍💻 ==> More Earning 💰 ==> More Happiness 🤗</i></b></p>
+<!-- My Projects add soon-->
 
-<!-- Skills & Tools -->
+---
 
+## 🛠️ Skills & Tools
 
-<h2 align="center">Skills & Tools: <img width="35" height="35" src="https://img.icons8.com/arcade/64/source-code.png" alt="source-code"/></h2>
+<div align="center">
 
-<div style="display: flex; align-items: flex-start; align: center">
-<table align="center">
-  <tr>
-    <td align="center" width="45">
-        <img src="https://img.icons8.com/color/45/python--v1.png" alt="icon" width="45" height="45" />
-      <br>Python
-    </td>
-    <td align="center" width="45">
-        <img src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="icon" width="45" height="45" />
-      <br>Java
-    </td>
-    <td align="center" width="45">
-        <img src="https://img.icons8.com/fluency/45/javascript.png" width="45" height="45" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="45">
-        <img src="https://img.icons8.com/officel/45/react.png" alt="icon" width="45" height="45" />
-      <br>React
-    </td>
-    <td align="center" width="45">
-        <img src="https://img.icons8.com/color/45/html-5--v2.png" alt="icon" width="45" height="45" />
-      <br>HTML5
-    </td>
-    <td align="center" width="45">
-        <img src="https://img.icons8.com/color/45/css3.png" alt="icon" width="45" height="45" />
-      <br>CSS3
-    </td>
-    <td align="center" width="45">
-        <img src="https://img.icons8.com/color/45/typescript.png" alt="icon" width="45" height="45" />
-      <br>TypeScript
-    </td>
-    <td align="center" width="45">
-        <img src="https://nodejs.org/static/logos/nodejsStackedLight.svg" alt="icon" width="45" height="45" />
-      <br>Node.js
-    </td>
-    </td>
-    <td align="center" width="45">
-        <img src="https://img.icons8.com/fluency/45/nextjs.png" alt="icon" width="45" height="45" />
-      <br>Next.js
-    </td>
-    <td align="center" width="45">
-        <img src="https://img.icons8.com/color/45/express-js.png" alt="icon" width="45" height="45" />
-      <br>Express js
-  </tr>
+### 💻 Languages & Frameworks
 
-  <tr>
-    <td align="center" width="45">
-        <img src="https://img.icons8.com/arcade/45/sql.png" alt="icon" width="45" height="45" />
-      <br>SQL
-    </td>
-    <td align="center" width="45">
-        <img src="https://img.icons8.com/fluency/45/tailwind_css.png" alt="icon" width="45" height="45" />
-      <br>Tailwind CSS
-    </td>
-    <td align="center" width="45">
-        <img src="https://img.icons8.com/color/45/material-ui.png" width="45" height="45" />
-      <br>Material UI
-    </td>
-    <td align="center" width="45">
-        <img src="https://img.icons8.com/color/45/redux.png" alt="icon" width="45" height="45" />
-      <br>Redux
-    </td>
-    <td align="center" width="45">
-        <img src="https://img.icons8.com/color/45/npm.png" alt="icon" width="45" height="45" />
-      <br>npm
-    </td>
-    <td align="center" width="45">
-        <img src="https://img.icons8.com/fluency/45/my-sql.png" alt="icon" width="45" height="45" />
-      <br>MySQL
-    </td>
-    <td align="center" width="45">
-        <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/45/external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo.png" width="45" height="45" />
-      <br>MongoDB
-    </td>
-    </td>
-    <td align="center" width="45">
-        <img src="https://img.icons8.com/color/45/redis--v2.png" alt="icon" width="45" height="45" />
-      <br>Redis
-    </td>
-    <td align="center" width="45">
-        <img src="https://img.icons8.com/color/45/postgreesql.png" alt="icon" width="45" height="45" />
-      <br>PostgreSQL
-    </td>
-    <td align="center" width="45">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Cassandra_logo.svg" alt="icon" width="45" height="45" />
-      <br>Cassandra
-  </tr>
-    
-  <tr>
-    <td align="center" width="45">
-        <img src="https://img.icons8.com/fluency/45/visual-studio-code-2019.png" alt="icon" width="45" height="45" />
-      <br>VS Code
-    </td>
-    <td align="center" width="45">
-        <img src="https://img.icons8.com/color/45/git.png" alt="icon" width="45" height="45" />
-      <br>Git
-    </td>
-    <td align="center" width="45">
-        <img src="https://img.icons8.com/color/45/linux--v1.png" width="45" height="45" />
-      <br>Linux
-    </td>
-    <td align="center" width="45">
-        <img src="https://img.icons8.com/color/45/pycharm--v2.png" alt="icon" width="45" height="45" />
-      <br>Pycharm 
-    </td>
-    <td align="center" width="45">
-        <img src="https://img.icons8.com/color/45/webstorm.png" alt="icon" width="45" height="45" />
-      <br>Webstrom 
-    </td>
-    <td align="center" width="45">
-        <img src="https://img.icons8.com/color/45/intellij-idea.png" alt="icon" width="45" height="45" />
-      <br>Intellij
-    </td>
-    <td align="center" width="45">
-        <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/45/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" width="45" height="45" />
-      <br>Postman
-    </td>
-    </td>
-    <td align="center" width="45">
-        <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/45/external-firebase-a-googles-mobile-platform-that-helps-you-quickly-develop-high-quality-apps-logo-color-tal-revivo.png" alt="icon" width="45" height="45" />
-      <br>Firebase
-    </td>
-    <td align="center" width="45">
-        <img src="https://img.icons8.com/ios/45/chatgpt.png" alt="icon" width="45" height="45" />
-      <br>ChatGPT
-    </td>
-    <td align="center" width="45">
-        <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/45/external-graphql-an-open-source-data-query-and-manipulation-language-for-api-logo-color-tal-revivo.png" alt="icon" width="45" height="45" />
-      <br>GraphQL
-  </tr>
-    
- 
-  <tr>
-    <td align="center" width="45">
-        <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/45/external-amazon-web-services-a-subsidiary-of-amazon-that-provides-on-demand-cloud-computing-logo-color-tal-revivo.png" alt="icon" width="45" height="45" />
-      <br>AWS Cloud
-    </td>
-    <td align="center" width="45">
-        <img src="https://img.icons8.com/office/45/ibm-watson.png" alt="icon" width="45" height="45" />
-      <br>IBM Watson
-    </td>
-    <td align="center" width="45">
-        <img src="https://img.icons8.com/fluency/45/azure-1.png" width="45" height="45" />
-      <br>Azure Cloud
-    </td>
-    <td align="center" width="45">
-        <img src="https://img.icons8.com/fluency/45/docker.png" alt="icon" width="45" height="45" />
-      <br>Docker
-    </td>
-    <td align="center" width="45">
-        <img src="https://img.icons8.com/color/45/kubernetes.png" alt="icon" width="45" height="45" />
-      <br>Kubernetes
-    </td>
-    <td align="center" width="45">
-        <img src="https://img.icons8.com/color/45/terraform.png" alt="icon" width="45" height="45" />
-      <br>Teraform
-    </td>
-    <td align="center" width="45">
-        <img src="https://img.icons8.com/color/45/jenkins.png" width="45" height="45" />
-      <br>Jenkins
-    </td>
-    </td>
-    <td align="center" width="45">
-        <img src="https://img.icons8.com/external-tanah-basah-glyph-tanah-basah/45/external-notion-social-media-tanah-basah-glyph-tanah-basah.png" alt="icon" width="45" height="45" />
-      <br>Notion
-    </td>
-    <td align="center" width="45">
-        <img src="https://img.icons8.com/nolan/45/miro.png" alt="icon" width="45" height="45" />
-      <br>Miro
-    </td>
-    <td align="center" width="45">
-        <img src="https://img.icons8.com/ios-filled/45/api-settings.png" alt="icon" width="45" height="45" />
-      <br>Rest API
-  </tr>
+| <img src="https://img.icons8.com/color/45/python--v1.png" width="45" height="45" /><br/>Python | <img src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" width="45" height="45" /><br/>Java | <img src="https://img.icons8.com/fluency/45/javascript.png" width="45" height="45" /><br/>JavaScript | <img src="https://img.icons8.com/color/45/typescript.png" width="45" height="45" /><br/>TypeScript | <img src="https://img.icons8.com/color/45/html-5--v2.png" width="45" height="45" /><br/>HTML5 | <img src="https://img.icons8.com/color/45/css3.png" width="45" height="45" /><br/>CSS3 |
+| :--------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------: |
 
-    
-  <tr>
-    <td align="center" width="45">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/1/11/TensorFlowLogo.svg" alt="icon" width="45" height="45" />
-      <br>TensorFlow
-    </td>
-    <td align="center" width="45">
-        <img src="https://img.icons8.com/fluency/45/opencv.png" alt="icon" width="45" height="45" />
-      <br>OpenCV
-    </td>
-    <td align="center" width="45">
-        <img src="https://img.icons8.com/fluency/45/pytorch.png" width="45" height="45" />
-      <br>Pytorch
-    </td>
-    <td align="center" width="45">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="icon" width="45" height="45" />
-      <br>Keras
-    </td>
-    <td align="center" width="45">
-        <img src="https://img.icons8.com/fluency/45/hugging-face_app.png" alt="icon" width="45" height="45" />
-      <br>Hugging Face
-    </td>
-    <td align="center" width="45">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/LangChain_logo.svg" alt="icon" width="45" height="45" />
-      <br>LangChain
-    </td>
-    <td align="center" width="45">
-        <img src="https://img.icons8.com/color/45/jira.png" width="45" height="45" />
-      <br>Jira
-    </td>
-    <td align="center" width="45">
-    </td>
-    </td>
-    <td align="center" width="45">
-    <td align="center" width="45">
-      
-</tr>
-</table>
+| <img src="https://img.icons8.com/officel/45/react.png" width="45" height="45" /><br/>React | <img src="https://img.icons8.com/fluency/45/nextjs.png" width="45" height="45" /><br/>Next.js | <img src="https://nodejs.org/static/logos/nodejsStackedLight.svg" width="45" height="45" /><br/>Node.js | <img src="https://img.icons8.com/color/45/express-js.png" width="45" height="45" /><br/>Express.js | <img src="https://img.icons8.com/fluency/45/tailwind_css.png" width="45" height="45" /><br/>Tailwind CSS | <img src="https://img.icons8.com/color/45/material-ui.png" width="45" height="45" /><br/>Material UI |
+| :----------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------: |
+
+### 🗄️ Databases & Backend
+
+| <img src="https://img.icons8.com/arcade/45/sql.png" width="45" height="45" /><br/>SQL | <img src="https://img.icons8.com/fluency/45/my-sql.png" width="45" height="45" /><br/>MySQL | <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/45/external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo.png" width="45" height="45" /><br/>MongoDB | <img src="https://img.icons8.com/color/45/redis--v2.png" width="45" height="45" /><br/>Redis | <img src="https://img.icons8.com/color/45/postgreesql.png" width="45" height="45" /><br/>PostgreSQL | <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Cassandra_logo.svg" width="45" height="45" /><br/>Cassandra |
+| :-----------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------: |
+
+### ☁️ Cloud, DevOps & Tools
+
+| <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/45/external-amazon-web-services-a-subsidiary-of-amazon-that-provides-on-demand-cloud-computing-logo-color-tal-revivo.png" width="45" height="45" /><br/>AWS | <img src="https://img.icons8.com/fluency/45/azure-1.png" width="45" height="45" /><br/>Azure | <img src="https://img.icons8.com/fluency/45/docker.png" width="45" height="45" /><br/>Docker | <img src="https://img.icons8.com/color/45/kubernetes.png" width="45" height="45" /><br/>Kubernetes | <img src="https://img.icons8.com/color/45/terraform.png" width="45" height="45" /><br/>Terraform | <img src="https://img.icons8.com/color/45/jenkins.png" width="45" height="45" /><br/>Jenkins |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------: |
+
+| <img src="https://img.icons8.com/color/45/git.png" width="45" height="45" /><br/>Git | <img src="https://img.icons8.com/color/45/linux--v1.png" width="45" height="45" /><br/>Linux | <img src="https://img.icons8.com/fluency/45/visual-studio-code-2019.png" width="45" height="45" /><br/>VS Code | <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/45/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" width="45" height="45" /><br/>Postman | <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/45/external-firebase-a-googles-mobile-platform-that-helps-you-quickly-develop-high-quality-apps-logo-color-tal-revivo.png" width="45" height="45" /><br/>Firebase | <img src="https://img.icons8.com/ios-filled/45/api-settings.png" width="45" height="45" /><br/>REST API |
+| :----------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------: |
+
+| <img src="https://img.icons8.com/color/45/redux.png" width="45" height="45" /><br/>Redux | <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/45/external-graphql-an-open-source-data-query-and-manipulation-language-for-api-logo-color-tal-revivo.png" width="45" height="45" /><br/>GraphQL | <img src="https://img.icons8.com/color/45/npm.png" width="45" height="45" /><br/>npm | <img src="https://img.icons8.com/external-tanah-basah-glyph-tanah-basah/45/external-notion-social-media-tanah-basah-glyph-tanah-basah.png" width="45" height="45" /><br/>Notion | <img src="https://img.icons8.com/nolan/45/miro.png" width="45" height="45" /><br/>Miro | <img src="https://img.icons8.com/color/45/jira.png" width="45" height="45" /><br/>Jira |
+| :--------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------: |
+
+### 🤖 AI / ML & Research
+
+| <img src="https://upload.wikimedia.org/wikipedia/commons/1/11/TensorFlowLogo.svg" width="45" height="45" /><br/>TensorFlow | <img src="https://img.icons8.com/fluency/45/pytorch.png" width="45" height="45" /><br/>PyTorch | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="45" height="45" /><br/>Keras | <img src="https://img.icons8.com/fluency/45/opencv.png" width="45" height="45" /><br/>OpenCV | <img src="https://img.icons8.com/fluency/45/hugging-face_app.png" width="45" height="45" /><br/>Hugging Face | <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/LangChain_logo.svg" width="45" height="45" /><br/>LangChain |
+| :------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------: |
+
+| <img src="https://img.icons8.com/office/45/ibm-watson.png" width="45" height="45" /><br/>IBM Watson | <img src="https://img.icons8.com/color/45/pycharm--v2.png" width="45" height="45" /><br/>PyCharm | <img src="https://img.icons8.com/color/45/webstorm.png" width="45" height="45" /><br/>WebStorm | <img src="https://img.icons8.com/color/45/intellij-idea.png" width="45" height="45" /><br/>IntelliJ | <img src="https://img.icons8.com/ios/45/chatgpt.png" width="45" height="45" /><br/>ChatGPT |     |
+| :-------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------: | :-: |
+
 </div>
 
-</br>
+---
 
-<!-- Contact Us -->
+## 🤝 Connect with Me
 
-
-<h2 align="center">You can connect with me on:🫂</h2>
 <p align="center">
-  <a href="mailto:prince.chhirolya04@gmail.com" target="blank"><img width="46"" src="https://github.com/prince-chhirolya/prince-chhirolya/assets/94574414/df14c3db-3ad8-4e21-ac50-713ab2b0a5bb" alt="prince.chhirolya"/>
-  <a href="https://linkedin.com/in/princechhirolya" target="blank"><img width="46" src="https://img.icons8.com/3d-fluency/188/linkedin.png" alt="Prince Chhirolya 🚀"/>
-  <a href="https://github.com/prince-chhirolya" target="blank"><img width="46" src="https://img.icons8.com/3d-fluency/94/github.png" alt="prince-chhirolya"/>
-  <a href="https://www.credly.com/users/prince-chhirolya/badges" target="blank"><img width="46" src="https://img.icons8.com/color/48/credly.png" alt="credly"/>
-  <a href="https://twitter.com/pr_chhirolya" target="blank"><img width="46" src="https://img.icons8.com/3d-fluency/188/twitter-circled.png" alt="@pr_chhirolya"/>
-  <a href="https://instagram.com/prince_chhirolya" target="blank"><img width="46" src="https://img.icons8.com/3d-fluency/94/instagram-new.png" alt="prince_chhirolya"/>
-  <a href="https://leetcode.com/chhirolyaprince/" target="blank"><img width="46" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="chhirolyaprince"/>
-  <a href="https://www.hackerrank.com/profile/chhirolyaprince" target="blank"><img width="46" src="https://img.icons8.com/windows/32/3ea527/hackerrank.png" alt="chhirolyaprince"/>
-  <a href="https://learn.microsoft.com/en-us/users/prince-chhirolya/" target="blank"><img width="46" src="https://img.icons8.com/color/48/microsoft.png" alt="prince-chhirolya"/>
-  <a href="https://medium.com/@chhirolyaprince" target="blank"><img width="46" src="https://img.icons8.com/glyph-neue/64/medium-monogram.png" alt="@chhirolyaprince"/> 
-</p> 
+  <a href="mailto:prince.chhirolya04@gmail.com" target="_blank">
+    <img width="46" src="https://github.com/prince-chhirolya/prince-chhirolya/assets/94574414/df14c3db-3ad8-4e21-ac50-713ab2b0a5bb" alt="Email" title="Email" />
+  </a>&nbsp;
+  <a href="https://linkedin.com/in/princechhirolya" target="_blank">
+    <img width="46" src="https://img.icons8.com/3d-fluency/188/linkedin.png" alt="LinkedIn" title="LinkedIn" />
+  </a>&nbsp;
+  <a href="https://github.com/prince-chhirolya" target="_blank">
+    <img width="46" src="https://img.icons8.com/3d-fluency/94/github.png" alt="GitHub" title="GitHub" />
+  </a>&nbsp;
+  <a href="https://www.credly.com/users/prince-chhirolya/badges" target="_blank">
+    <img width="46" src="https://img.icons8.com/color/48/credly.png" alt="Credly" title="Credly" />
+  </a>&nbsp;
+  <a href="https://twitter.com/pr_chhirolya" target="_blank">
+    <img width="46" src="https://img.icons8.com/3d-fluency/188/twitter-circled.png" alt="Twitter" title="Twitter" />
+  </a>&nbsp;
+  <a href="https://instagram.com/prince_chhirolya" target="_blank">
+    <img width="46" src="https://img.icons8.com/3d-fluency/94/instagram-new.png" alt="Instagram" title="Instagram" />
+  </a>&nbsp;
+  <a href="https://leetcode.com/chhirolyaprince/" target="_blank">
+    <img width="46" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="LeetCode" title="LeetCode" />
+  </a>&nbsp;
+  <a href="https://www.hackerrank.com/profile/chhirolyaprince" target="_blank">
+    <img width="46" src="https://img.icons8.com/windows/32/3ea527/hackerrank.png" alt="HackerRank" title="HackerRank" />
+  </a>&nbsp;
+  <a href="https://learn.microsoft.com/en-us/users/prince-chhirolya/" target="_blank">
+    <img width="46" src="https://img.icons8.com/color/48/microsoft.png" alt="Microsoft Learn" title="Microsoft Learn" />
+  </a>&nbsp;
+  <a href="https://medium.com/@chhirolyaprince" target="_blank">
+    <img width="46" src="https://img.icons8.com/glyph-neue/64/medium-monogram.png" alt="Medium" title="Medium" />
+  </a>
+</p><br/>
 
-</br>
+<p align="center">
+  <a href="#">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=prince-chhirolya&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph" />
+  </a>
+</p>
 
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
+<div align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="contribution snake animation" style="max-width: 100%;" />
+</div>
 
+<p align="center"><b><i>Life is always... 💖😊 More Learning 👨‍💻 ➡️ More Earning 💰 ➡️ More Happiness 🤗</i></b></p>
 
+<hr/>
