@@ -2,7 +2,7 @@
 <!-- ║         ⚡ PRINCE CHHIROLYA · GitHub Profile README ⚡          ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════════╝ -->
 
-<h1 align="center"><i>Hello!, fellow &lt;Programmers/&gt; I'm Prince 👋</i></h1>
+<h1 align="center"><i>👋 Hello!, fellow &lt;Programmers /&gt; I'm Prince 🚀</i></h1>
 
 <p>
   <a href="https://www.linkedin.com/in/princechhirolya/">
@@ -13,14 +13,20 @@
   </a>
 </p>
 
+**Founder & CEO** | **AI Researcher** | **Ex-Remote Software Engineer**  
+**26× Certified Professional** | **Tech-Speaker** | **Tech Community Leader**
+
+I build, break, and secure AI systems — focusing on agents, RAG, and LLM infra — and ship solutions people actually use 😎
+
 <p align="center">
-  Hi! 👋, My name is <b>Prince Chhirolya</b>.<br/>
   I am currently focused on building my deep‑tech startup 
   <a href="https://www.linkedin.com/company/chhirolya-tech/" target="_blank"><b>Chhirolya Technologies</b></a> 
   (AI Research &amp; Development, specializing in defense and public sector).<br/>
-  I also run a non‑profit organization 
-  <a href="https://www.linkedin.com/company/maa-world/" target="_blank"><b>Maa World Foundation</b></a> 
-  (free education, women &amp; child safety, and tech for social good).
+
+I also run a non‑profit organization
+<a href="https://www.linkedin.com/company/maa-world/" target="_blank"><b>Maa World Foundation</b></a>
+(free education, women &amp; child safety, and tech for social good).
+
 </p>
 
 <br/>
@@ -105,7 +111,10 @@
 
 ---
 
-## 🤝 Connect with Me
+## 🤝 Let’s Build Something Spicy
+
+Open to **collabs, consulting**
+Ping me — let’s build cool (and safe) shit together.
 
 <p align="center">
   <a href="mailto:prince.chhirolya04@gmail.com" target="_blank">
@@ -114,26 +123,11 @@
   <a href="https://linkedin.com/in/princechhirolya" target="_blank">
     <img width="46" src="https://img.icons8.com/3d-fluency/188/linkedin.png" alt="LinkedIn" title="LinkedIn" />
   </a>&nbsp;
-  <a href="https://github.com/prince-chhirolya" target="_blank">
-    <img width="46" src="https://img.icons8.com/3d-fluency/94/github.png" alt="GitHub" title="GitHub" />
-  </a>&nbsp;
-  <a href="https://www.credly.com/users/prince-chhirolya/badges" target="_blank">
-    <img width="46" src="https://img.icons8.com/color/48/credly.png" alt="Credly" title="Credly" />
-  </a>&nbsp;
   <a href="https://twitter.com/pr_chhirolya" target="_blank">
     <img width="46" src="https://img.icons8.com/3d-fluency/188/twitter-circled.png" alt="Twitter" title="Twitter" />
   </a>&nbsp;
   <a href="https://instagram.com/prince_chhirolya" target="_blank">
     <img width="46" src="https://img.icons8.com/3d-fluency/94/instagram-new.png" alt="Instagram" title="Instagram" />
-  </a>&nbsp;
-  <a href="https://leetcode.com/chhirolyaprince/" target="_blank">
-    <img width="46" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="LeetCode" title="LeetCode" />
-  </a>&nbsp;
-  <a href="https://www.hackerrank.com/profile/chhirolyaprince" target="_blank">
-    <img width="46" src="https://img.icons8.com/windows/32/3ea527/hackerrank.png" alt="HackerRank" title="HackerRank" />
-  </a>&nbsp;
-  <a href="https://learn.microsoft.com/en-us/users/prince-chhirolya/" target="_blank">
-    <img width="46" src="https://img.icons8.com/color/48/microsoft.png" alt="Microsoft Learn" title="Microsoft Learn" />
   </a>&nbsp;
   <a href="https://medium.com/@chhirolyaprince" target="_blank">
     <img width="46" src="https://www.logo.dev/_next/image?url=https%3A%2F%2Fimg.logo.dev%2Fmedium.com%3Ftoken%3Dlive_6a1a28fd-6420-4492-aeb0-b297461d9de2%26size%3D128%26retina%3Dtrue%26format%3Dpng&w=640&q=75" alt="Medium" title="Medium" />
