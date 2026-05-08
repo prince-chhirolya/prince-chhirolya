@@ -124,10 +124,13 @@ Ping me — let’s build cool (and safe) shit together.
     <img width="46" src="https://img.icons8.com/3d-fluency/188/linkedin.png" alt="LinkedIn" title="LinkedIn" />
   </a>&nbsp;
   <a href="https://twitter.com/pr_chhirolya" target="_blank">
-    <img width="46" src="https://img.icons8.com/3d-fluency/188/twitter-circled.png" alt="Twitter" title="Twitter" />
+    <img width="46" src="https://img.icons8.com/?size=100&id=phOKFKYpe00C&format=png&color=5C7CFA" alt="Twitter" title="Twitter" />
   </a>&nbsp;
   <a href="https://instagram.com/prince_chhirolya" target="_blank">
     <img width="46" src="https://img.icons8.com/3d-fluency/94/instagram-new.png" alt="Instagram" title="Instagram" />
+  </a>&nbsp;
+    <a href="https://www.credly.com/users/prince-chhirolya/badges" target="_blank">
+    <img width="46" src="https://img.icons8.com/color/48/credly.png" alt="Credly" title="Credly" />
   </a>&nbsp;
   <a href="https://medium.com/@chhirolyaprince" target="_blank">
     <img width="46" src="https://www.logo.dev/_next/image?url=https%3A%2F%2Fimg.logo.dev%2Fmedium.com%3Ftoken%3Dlive_6a1a28fd-6420-4492-aeb0-b297461d9de2%26size%3D128%26retina%3Dtrue%26format%3Dpng&w=640&q=75" alt="Medium" title="Medium" />
