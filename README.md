@@ -22,7 +22,6 @@ I build, break, and secure AI systems — focusing on agents, RAG, and LLM infra
   I am currently focused on building my deep‑tech startup 
   <a href="https://www.linkedin.com/company/chhirolya-tech/" target="_blank"><b>Chhirolya Technologies</b></a> 
   (AI Research &amp; Development, specializing in defense and public sector).<br/>
-
 I also run a non‑profit organization
 <a href="https://www.linkedin.com/company/maa-world/" target="_blank"><b>Maa World Foundation</b></a>
 (free education, women &amp; child safety, and tech for social good).
@@ -67,9 +66,7 @@ I also run a non‑profit organization
     <li> <a href="#" target="_blank">Project 2</a> -- Description add soon...</li>
     <li> <a href="#" target="_blank">Project 3</a> -- Description add soon...</li>
   </ol>
-</div><br/>
-
----
+</div>
 
 ## 🛠️ Skills & Tools
 
