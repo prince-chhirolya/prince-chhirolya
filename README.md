@@ -14,7 +14,7 @@
 </p>
 
 **Founder & CEO** | **AI Researcher** | **Ex-Remote Software Engineer**  
-**26× Certified Professional** | **Tech-Speaker** | **Tech Community Leader**
+**26× Certified Professional** | **Tech Community Leader** | **Programmers Worldwide (👨‍💻</>👩‍💻)**
 
 I build, break, and secure AI systems — focusing on agents, RAG, and LLM infra — and ship solutions people actually use 😎
 
@@ -68,7 +68,48 @@ I also run a non‑profit organization
   </ol>
 </div>
 
-## 🛠️ Skills & Tools
+<!-- 0101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010 -->
+
+## ♟️ Chhirolya's Open Chess Tournament
+
+**_Game is in progress._** This is an open chess tournament where ANYONE can play. That's the fun part.
+It's your turn to play! Move a black piece.
+
+<!-- 0101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010 -->
+
+## 🤝 Let’s Build Something Spicy
+
+Open to **collabs, consulting**
+Ping me — let’s build cool (and safe) shit together.
+
+<p align="center">
+  <a href="mailto:prince.chhirolya04@gmail.com" target="_blank">
+    <img width="46" src="https://github.com/prince-chhirolya/prince-chhirolya/assets/94574414/df14c3db-3ad8-4e21-ac50-713ab2b0a5bb" alt="Email" title="Email" />
+  </a>&nbsp;
+  <a href="https://linkedin.com/in/princechhirolya" target="_blank">
+    <img width="46" src="https://img.icons8.com/3d-fluency/188/linkedin.png" alt="LinkedIn" title="LinkedIn" />
+  </a>&nbsp;
+  <a href="https://twitter.com/pr_chhirolya" target="_blank">
+    <img width="46" src="https://img.icons8.com/?size=100&id=phOKFKYpe00C&format=png&color=5C7CFA" alt="Twitter" title="Twitter" />
+  </a>&nbsp;
+  <a href="https://instagram.com/prince_chhirolya" target="_blank">
+    <img width="46" src="https://img.icons8.com/3d-fluency/94/instagram-new.png" alt="Instagram" title="Instagram" />
+  </a>&nbsp;
+    <a href="https://www.credly.com/users/prince-chhirolya/badges" target="_blank">
+    <img width="46" src="https://img.icons8.com/color/48/credly.png" alt="Credly" title="Credly" />
+  </a>&nbsp;
+  <a href="https://medium.com/@chhirolyaprince" target="_blank">
+    <img width="46" src="https://www.logo.dev/_next/image?url=https%3A%2F%2Fimg.logo.dev%2Fmedium.com%3Ftoken%3Dlive_6a1a28fd-6420-4492-aeb0-b297461d9de2%26size%3D128%26retina%3Dtrue%26format%3Dpng&w=640&q=75" alt="Medium" title="Medium" />
+  </a>
+</p>
+
+<div align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="contribution snake animation" style="width: 85%" />
+</div>
+
+<p align="center"><b><i>Life is always... 💖😊 More Learning 👨‍💻 ➡️ More Earning 💰 ➡️ More Happiness 🤗</i></b></p>
+
+## 🛠️My Skills & Tools
 
 <div align="center">
 
@@ -108,41 +149,8 @@ I also run a non‑profit organization
 
 ---
 
-## 🤝 Let’s Build Something Spicy
-
-Open to **collabs, consulting**
-Ping me — let’s build cool (and safe) shit together.
-
-<p align="center">
-  <a href="mailto:prince.chhirolya04@gmail.com" target="_blank">
-    <img width="46" src="https://github.com/prince-chhirolya/prince-chhirolya/assets/94574414/df14c3db-3ad8-4e21-ac50-713ab2b0a5bb" alt="Email" title="Email" />
-  </a>&nbsp;
-  <a href="https://linkedin.com/in/princechhirolya" target="_blank">
-    <img width="46" src="https://img.icons8.com/3d-fluency/188/linkedin.png" alt="LinkedIn" title="LinkedIn" />
-  </a>&nbsp;
-  <a href="https://twitter.com/pr_chhirolya" target="_blank">
-    <img width="46" src="https://img.icons8.com/?size=100&id=phOKFKYpe00C&format=png&color=5C7CFA" alt="Twitter" title="Twitter" />
-  </a>&nbsp;
-  <a href="https://instagram.com/prince_chhirolya" target="_blank">
-    <img width="46" src="https://img.icons8.com/3d-fluency/94/instagram-new.png" alt="Instagram" title="Instagram" />
-  </a>&nbsp;
-    <a href="https://www.credly.com/users/prince-chhirolya/badges" target="_blank">
-    <img width="46" src="https://img.icons8.com/color/48/credly.png" alt="Credly" title="Credly" />
-  </a>&nbsp;
-  <a href="https://medium.com/@chhirolyaprince" target="_blank">
-    <img width="46" src="https://www.logo.dev/_next/image?url=https%3A%2F%2Fimg.logo.dev%2Fmedium.com%3Ftoken%3Dlive_6a1a28fd-6420-4492-aeb0-b297461d9de2%26size%3D128%26retina%3Dtrue%26format%3Dpng&w=640&q=75" alt="Medium" title="Medium" />
-  </a>
-</p><br/>
-
-<p align="center">
+<!-- <p align="center">
   <a href="#">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=prince-chhirolya&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="75%" alt="activity graph" />
   </a>
-</p>
-
-<div align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="contribution snake animation" style="width: 85%" />
-</div>
-
-<p align="center"><b><i>Life is always... 💖😊 More Learning 👨‍💻 ➡️ More Earning 💰 ➡️ More Happiness 🤗</i></b></p>
-<hr/>
+</p> -->
