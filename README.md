@@ -34,40 +34,6 @@ I also run a non‑profit organization
   <img src="./img/world-cloud.png" alt="prince" />
 </p>
 
-<!-- My Projects add soon-->
-
-<h2>My Projects & Communities 🚀</h2>
-
-<div>
-✌️ Chhirolya Technologies (CT)
-  <ol>
-    <li> <a href="#" target="_blank">Karnika - AIOS</a> -- Description add soon...</li>
-    <li> <a href="#" target="_blank">SPY WING - DEFENSE_MATRIX</a> -- Description add soon...</li>
-    <li> <a href="#" target="_blank">View.IN - AIOS</a> -- Description add soon...</li>
-    <li> <a href="#" target="_blank">Chhirolya Research</a> -- Description add soon...</li>
-  </ol>
-✌️ Maa World Foundation (MWF) 
-  <ol>
-    <li> <a href="#" target="_blank">Programmers Worldwide Community</a> -- Description add soon...</li>
-    <li> <a href="#" target="_blank">Learn First Program Global</a> -- Description add soon...</li>
-    <li> <a href="#" target="_blank">Learn First Program [IN] Chapter</a> -- Description add soon...</li>
-    <li> <a href="#" target="_blank">Aashayein Community</a> -- Description add soon...</li>
-  </ol>
-✌️ Open Source Projects
-  <ol>
-    <li> [CT] <a href="#" target="_blank">SkyRocket DevHub < / > </a> -- Description add soon...</li>
-    <li> [CT x MWF] <a href="#" target="_blank">Kisan.IN - AI Farmer's Companion
-    </a> -- Description add soon...</li>
-    <li> * <a href="#" target="_blank">Right - CT Challenge</a> -- Description add soon...</li>
-  </ol>
-✌️ Personal Projects
-  <ol>
-    <li> <a href="#" target="_blank">Project 1</a> -- Description add soon...</li>
-    <li> <a href="#" target="_blank">Project 2</a> -- Description add soon...</li>
-    <li> <a href="#" target="_blank">Project 3</a> -- Description add soon...</li>
-  </ol>
-</div>
-
 <!-- 0101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010 -->
 
 ## ♟️ Chhirolya's Open Chess Tournament
@@ -76,24 +42,27 @@ I also run a non‑profit organization
 It's your turn to play! Move a <!-- BEGIN TURN -->white<!-- END TURN --> piece.
 
 <!-- BEGIN CHESS BOARD -->
-|   | A | B | C | D | E | F | G | H |   |
-|---|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+
+|       |                     A                     |                      B                      |                      C                      |                     D                      |                     E                     |                      F                      |                      G                      |                     H                     |       |
+| ----- | :---------------------------------------: | :-----------------------------------------: | :-----------------------------------------: | :----------------------------------------: | :---------------------------------------: | :-----------------------------------------: | :-----------------------------------------: | :---------------------------------------: | :---: |
 | **8** | <img src="img/black/rook.svg" width=50px> | <img src="img/black/knight.svg" width=50px> | <img src="img/black/bishop.svg" width=50px> | <img src="img/black/queen.svg" width=50px> | <img src="img/black/king.svg" width=50px> | <img src="img/black/bishop.svg" width=50px> | <img src="img/black/knight.svg" width=50px> | <img src="img/black/rook.svg" width=50px> | **8** |
-| **7** | <img src="img/black/pawn.svg" width=50px> | <img src="img/black/pawn.svg" width=50px> | <img src="img/black/pawn.svg" width=50px> | <img src="img/black/pawn.svg" width=50px> | <img src="img/black/pawn.svg" width=50px> | <img src="img/black/pawn.svg" width=50px> | <img src="img/black/pawn.svg" width=50px> | <img src="img/black/pawn.svg" width=50px> | **7** |
-| **6** | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | **6** |
-| **5** | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | **5** |
-| **4** | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | **4** |
-| **3** | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | **3** |
-| **2** | <img src="img/white/pawn.svg" width=50px> | <img src="img/white/pawn.svg" width=50px> | <img src="img/white/pawn.svg" width=50px> | <img src="img/white/pawn.svg" width=50px> | <img src="img/white/pawn.svg" width=50px> | <img src="img/white/pawn.svg" width=50px> | <img src="img/white/pawn.svg" width=50px> | <img src="img/white/pawn.svg" width=50px> | **2** |
+| **7** | <img src="img/black/pawn.svg" width=50px> |  <img src="img/black/pawn.svg" width=50px>  |  <img src="img/black/pawn.svg" width=50px>  | <img src="img/black/pawn.svg" width=50px>  | <img src="img/black/pawn.svg" width=50px> |  <img src="img/black/pawn.svg" width=50px>  |  <img src="img/black/pawn.svg" width=50px>  | <img src="img/black/pawn.svg" width=50px> | **7** |
+| **6** |   <img src="img/blank.png" width=50px>    |    <img src="img/blank.png" width=50px>     |    <img src="img/blank.png" width=50px>     |    <img src="img/blank.png" width=50px>    |   <img src="img/blank.png" width=50px>    |    <img src="img/blank.png" width=50px>     |    <img src="img/blank.png" width=50px>     |   <img src="img/blank.png" width=50px>    | **6** |
+| **5** |   <img src="img/blank.png" width=50px>    |    <img src="img/blank.png" width=50px>     |    <img src="img/blank.png" width=50px>     |    <img src="img/blank.png" width=50px>    |   <img src="img/blank.png" width=50px>    |    <img src="img/blank.png" width=50px>     |    <img src="img/blank.png" width=50px>     |   <img src="img/blank.png" width=50px>    | **5** |
+| **4** |   <img src="img/blank.png" width=50px>    |    <img src="img/blank.png" width=50px>     |    <img src="img/blank.png" width=50px>     |    <img src="img/blank.png" width=50px>    |   <img src="img/blank.png" width=50px>    |    <img src="img/blank.png" width=50px>     |    <img src="img/blank.png" width=50px>     |   <img src="img/blank.png" width=50px>    | **4** |
+| **3** |   <img src="img/blank.png" width=50px>    |    <img src="img/blank.png" width=50px>     |    <img src="img/blank.png" width=50px>     |    <img src="img/blank.png" width=50px>    |   <img src="img/blank.png" width=50px>    |    <img src="img/blank.png" width=50px>     |    <img src="img/blank.png" width=50px>     |   <img src="img/blank.png" width=50px>    | **3** |
+| **2** | <img src="img/white/pawn.svg" width=50px> |  <img src="img/white/pawn.svg" width=50px>  |  <img src="img/white/pawn.svg" width=50px>  | <img src="img/white/pawn.svg" width=50px>  | <img src="img/white/pawn.svg" width=50px> |  <img src="img/white/pawn.svg" width=50px>  |  <img src="img/white/pawn.svg" width=50px>  | <img src="img/white/pawn.svg" width=50px> | **2** |
 | **1** | <img src="img/white/rook.svg" width=50px> | <img src="img/white/knight.svg" width=50px> | <img src="img/white/bishop.svg" width=50px> | <img src="img/white/queen.svg" width=50px> | <img src="img/white/king.svg" width=50px> | <img src="img/white/bishop.svg" width=50px> | <img src="img/white/knight.svg" width=50px> | <img src="img/white/rook.svg" width=50px> | **1** |
-|   | **A** | **B** | **C** | **D** | **E** | **F** | **G** | **H** |   |
+|       |                   **A**                   |                    **B**                    |                    **C**                    |                   **D**                    |                   **E**                   |                    **F**                    |                    **G**                    |                   **H**                   |       |
+
 <!-- END CHESS BOARD -->
 
 **It's your turn to move! Choose one from the following table**
 
 <!-- BEGIN MOVES LIST -->
-|  FROM  | TO (Just click a link!) |
-| :----: | :---------------------- |
+
+|  FROM  | TO (Just click a link!)                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| :----: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **A2** | [A3](https://github.com/prince-chhirolya/prince-chhirolya/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+A2+to+A3), [A4](https://github.com/prince-chhirolya/prince-chhirolya/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+A2+to+A4) |
 | **B1** | [A3](https://github.com/prince-chhirolya/prince-chhirolya/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+B1+to+A3), [C3](https://github.com/prince-chhirolya/prince-chhirolya/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+B1+to+C3) |
 | **B2** | [B3](https://github.com/prince-chhirolya/prince-chhirolya/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+B2+to+B3), [B4](https://github.com/prince-chhirolya/prince-chhirolya/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+B2+to+B4) |
@@ -104,6 +73,7 @@ It's your turn to play! Move a <!-- BEGIN TURN -->white<!-- END TURN --> piece.
 | **G1** | [F3](https://github.com/prince-chhirolya/prince-chhirolya/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+G1+to+F3), [H3](https://github.com/prince-chhirolya/prince-chhirolya/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+G1+to+H3) |
 | **G2** | [G3](https://github.com/prince-chhirolya/prince-chhirolya/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+G2+to+G3), [G4](https://github.com/prince-chhirolya/prince-chhirolya/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+G2+to+G4) |
 | **H2** | [H3](https://github.com/prince-chhirolya/prince-chhirolya/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+H2+to+H3), [H4](https://github.com/prince-chhirolya/prince-chhirolya/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+H2+to+H4) |
+
 <!-- END MOVES LIST -->
 
 Having fun? Ask a friend to do the next move!
@@ -118,8 +88,8 @@ Have you spotted a bug? Something missing? Feel free to open an [issue](https://
   <summary>Last 5 moves in this game</summary>
 <!-- BEGIN LAST MOVES -->
 
-| Move | Author |
-| :--: | :----- |
+|     Move     | Author                                                    |
+| :----------: | :-------------------------------------------------------- |
 | `Start game` | [ @prince-chhirolya](https://github.com/prince-chhirolya) |
 
 <!-- END LAST MOVES -->
@@ -129,8 +99,8 @@ Have you spotted a bug? Something missing? Feel free to open an [issue](https://
   <summary>Top 10 most moves across all games</summary>
 <!-- BEGIN TOP MOVES -->
 
-| Total moves |  User  |
-| :---------: | :----- |
+| Total moves | User |
+| :---------: | :--- |
 
 <!-- END TOP MOVES -->
 </details>
@@ -170,6 +140,40 @@ Ping me — let’s build cool (and safe) shit together.
 </div>
 
 <p align="center"><b><i>Life is always... 💖😊 More Learning 👨‍💻 ➡️ More Earning 💰 ➡️ More Happiness 🤗</i></b></p>
+
+<!-- My Projects add soon-->
+
+<h2>My Projects & Communities 🚀</h2>
+
+<div>
+✌️ Chhirolya Technologies (CT)
+  <ol>
+    <li> <a href="#" target="_blank">Karnika - AIOS</a> -- Description add soon...</li>
+    <li> <a href="#" target="_blank">SPY WING - DEFENSE_MATRIX</a> -- Description add soon...</li>
+    <li> <a href="#" target="_blank">View.IN - AIOS</a> -- Description add soon...</li>
+    <li> <a href="#" target="_blank">Chhirolya Research</a> -- Description add soon...</li>
+  </ol>
+✌️ Maa World Foundation (MWF) 
+  <ol>
+    <li> <a href="#" target="_blank">Programmers Worldwide Community</a> -- Description add soon...</li>
+    <li> <a href="#" target="_blank">Learn First Program Global</a> -- Description add soon...</li>
+    <li> <a href="#" target="_blank">Learn First Program [IN] Chapter</a> -- Description add soon...</li>
+    <li> <a href="#" target="_blank">Aashayein Community</a> -- Description add soon...</li>
+  </ol>
+✌️ Open Source Projects
+  <ol>
+    <li> [CT] <a href="#" target="_blank">SkyRocket DevHub < / > </a> -- Description add soon...</li>
+    <li> [CT x MWF] <a href="#" target="_blank">Kisan.IN - AI Farmer's Companion
+    </a> -- Description add soon...</li>
+    <li> * <a href="#" target="_blank">Right - CT Challenge</a> -- Description add soon...</li>
+  </ol>
+✌️ Personal Projects
+  <ol>
+    <li> <a href="#" target="_blank">Project 1</a> -- Description add soon...</li>
+    <li> <a href="#" target="_blank">Project 2</a> -- Description add soon...</li>
+    <li> <a href="#" target="_blank">Project 3</a> -- Description add soon...</li>
+  </ol>
+</div>
 
 ## 🛠️My Skills & Tools
 
