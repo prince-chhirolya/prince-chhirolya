@@ -153,23 +153,21 @@ Ping me — let’s build cool (and safe) shit together.
 ✌️ Chhirolya Technologies (CT)
   <ol>
     <li> <a href="#" target="_blank">Karnika - AIOS</a> -- Description add soon...</li>
-    <li> <a href="#" target="_blank">SPY WING - DEFENSE_MATRIX</a> -- Description add soon...</li>
-    <li> <a href="#" target="_blank">View.IN - AIOS</a> -- Description add soon...</li>
+    <li> <a href="#" target="_blank">SPY WING - DEFENSE MATRIX</a> -- Description add soon...</li>
+    <li> <a href="#" target="_blank">CSI - Data Matrix</a> -- Description add soon...</li>
     <li> <a href="#" target="_blank">Chhirolya Research</a> -- Description add soon...</li>
+    <li> <a href="#" target="_blank">Programmers Worldwide</a> -- Description add soon...</li>
   </ol>
 ✌️ Maa World Foundation (MWF) 
   <ol>
-    <li> <a href="#" target="_blank">Programmers Worldwide Community</a> -- Description add soon...</li>
     <li> <a href="#" target="_blank">Learn First Program Global</a> -- Description add soon...</li>
     <li> <a href="#" target="_blank">Learn First Program [IN] Chapter</a> -- Description add soon...</li>
     <li> <a href="#" target="_blank">Aashayein Community</a> -- Description add soon...</li>
   </ol>
 ✌️ Open Source Projects
   <ol>
+    <li> [CT] <a href="#" target="_blank">WOLF - CT (World Online Library Free) < / > </a> -- Description add soon...</li>
     <li> [CT] <a href="#" target="_blank">SkyRocket DevHub < / > </a> -- Description add soon...</li>
-    <li> [CT x MWF] <a href="#" target="_blank">Kisan.IN - AI Farmer's Companion
-    </a> -- Description add soon...</li>
-    <li> * <a href="#" target="_blank">Right - CT Challenge</a> -- Description add soon...</li>
   </ol>
 ✌️ Personal Projects
   <ol>
