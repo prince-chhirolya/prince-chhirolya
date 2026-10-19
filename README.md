@@ -152,28 +152,22 @@ Ping me — let’s build cool (and safe) shit together.
 <div>
 ✌️ Chhirolya Technologies (CT)
   <ol>
-    <li> <a href="#" target="_blank">Karnika - AIOS</a> -- Description add soon...</li>
-    <li> <a href="#" target="_blank">SPY WING - DEFENSE MATRIX</a> -- Description add soon...</li>
-    <li> <a href="#" target="_blank">CSI - Data Matrix</a> -- Description add soon...</li>
-    <li> <a href="#" target="_blank">Chhirolya Research</a> -- Description add soon...</li>
-    <li> <a href="#" target="_blank">Programmers Worldwide</a> -- Description add soon...</li>
+    <li> <a href="#" target="_blank">Karnika - AIOS</a> -- </li>
+    <li> <a href="#" target="_blank">SPY WING - DEFENSE MATRIX</a> -- </li>
+    <li> <a href="#" target="_blank">CSI - Data Matrix</a> -- </li>
+    <li> <a href="#" target="_blank">Chhirolya Research</a> -- </li>
+    <li> <a href="#" target="_blank">Programmers Worldwide</a> -- </li>
   </ol>
 ✌️ Maa World Foundation (MWF) 
   <ol>
-    <li> <a href="#" target="_blank">Learn First Program Global</a> -- Description add soon...</li>
-    <li> <a href="#" target="_blank">Learn First Program [IN] Chapter</a> -- Description add soon...</li>
-    <li> <a href="#" target="_blank">Aashayein Community</a> -- Description add soon...</li>
+    <li> <a href="#" target="_blank">Learn First Program Global</a> -- </li>
+    <li> <a href="#" target="_blank">Learn First Program [IN] Chapter</a> -- </li>
+    <li> <a href="#" target="_blank">Aashayein Community</a> -- </li>
   </ol>
 ✌️ Open Source Projects
   <ol>
-    <li> [CT] <a href="#" target="_blank">WOLF - CT (World Online Library Free) < / > </a> -- Description add soon...</li>
-    <li> [CT] <a href="#" target="_blank">SkyRocket DevHub < / > </a> -- Description add soon...</li>
-  </ol>
-✌️ Personal Projects
-  <ol>
-    <li> <a href="#" target="_blank">Project 1</a> -- Description add soon...</li>
-    <li> <a href="#" target="_blank">Project 2</a> -- Description add soon...</li>
-    <li> <a href="#" target="_blank">Project 3</a> -- Description add soon...</li>
+    <li> [CT] <a href="#" target="_blank">WOLF - CT (World Online Library Free) < / > </a> -- </li>
+    <li> [CT] <a href="#" target="_blank">SkyRocket DevHub < / > </a> -- </li>
   </ol>
 </div>
 
