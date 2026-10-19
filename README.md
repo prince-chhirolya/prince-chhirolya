@@ -139,10 +139,6 @@ Ping me — let’s build cool (and safe) shit together.
   </a>
 </p>
 
-<div align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="contribution snake animation" style="width: 85%" />
-</div>
-
 <p align="center"><b><i>Life is always... 💖😊 More Learning 👨‍💻 ➡️ More Earning 💰 ➡️ More Happiness 🤗</i></b></p>
 
 <!-- My Projects add soon-->
